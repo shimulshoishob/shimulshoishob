@@ -1,3 +1,9 @@
+# Save this file in your profile repo as:
+#   .github/workflows/snake.yml
+#
+# It generates the animated contribution snake every 12 hours
+# and pushes the SVGs to a branch named "output".
+
 name: Generate Snake
 
 on:
