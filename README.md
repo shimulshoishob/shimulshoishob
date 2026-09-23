@@ -111,7 +111,6 @@
 ---
 
 # 🚀 Featured Projects
-# 🚀 Featured Projects
 
 <div align="center">
 
@@ -172,19 +171,6 @@ I'm particularly interested in exploring:
 ---
 
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shimulshoishob/shimulshoishob/output/github-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shimulshoishob/shimulshoishob/output/github-snake.svg" />
-<img alt="Contribution snake animation" src="https://raw.githubusercontent.com/shimulshoishob/shimulshoishob/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
 
 # 🌐 Connect With Me
 
