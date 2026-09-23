@@ -111,27 +111,27 @@
 ---
 
 # 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/shimulshoishob/The_Puzzle_Man">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shimulshoishob&repo=The_Puzzle_Man&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/C%2B%2B-The%20Puzzle%20Man-6366f1?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </a>
 
 <a href="https://github.com/shimulshoishob/gui_python_todo_app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shimulshoishob&repo=gui_python_todo_app&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Python-Todo%20App-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </a>
 
 <a href="https://github.com/shimulshoishob/JAVA-chat-application-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shimulshoishob&repo=JAVA-chat-application-&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Java-Chat%20Application-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </a>
 
 <a href="https://github.com/shimulshoishob/ML_Learning-Resources">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shimulshoishob&repo=ML_Learning-Resources&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/ML-Learning%20Resources-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white" />
 </a>
 
 </div>
-
 ---
 
 # 🧪 Research Interests
@@ -171,25 +171,6 @@ I'm particularly interested in exploring:
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shimulshoishob&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=6366f1&line=06b6d4&point=ffffff" alt="Contribution activity graph" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shimulshoishob&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
-
-</div>
-
----
 
 # 🐍 Contribution Snake
 
